@@ -20,8 +20,6 @@
 ## Issue Reporting 
 [**Github Issues**](https://github.com/Bonmiuken/CookiesLauncher/issues)
 
-## Community
-[**Github Discussions**](https://github.com/Bonmiuken/CookiesLauncher/discussions)
 ## CookiesMinecraft 
 > [!NOTE]
 > **If you don't already own a legitimate copy of Minecraft Bedrock, CookiesLauncher will use CookiesMinecraft DLL files to unlock them, and CookiesMinecraft DLL files will always be up-to-date.**

@@ -33,7 +33,8 @@
 > **If you don't want to unlock or use custom DLLs for Minecraft Bedrock, or don't want to use unlocking for Minecraft Java, you can go to CookiesLauncher's settings and disable CookiesMinecraftDLL mode and unlocking for Minecraft Java.**
  
 ## For Developers
-**If you are a developer, you can use the developer features in CookiesLauncher to use CookiesLauncher's source code.**
+>[!TIP]
+>**You can run a file named GUIDE.cmd in the source code directory to view the documentation for the developer.**
 
 ## Regarding language
 >[!IMPORTANT]
